@@ -49,23 +49,16 @@ Four machine learning algorithms were implemented and compared:
 ##  Project Structure
 flight-analytics-pyspark/
 │
-├── notebooks/
-│ ├── 01_data_ingestion.ipynb # Data loading & schema
-│ ├── 02_eda_analysis.ipynb # Exploratory data analysis
-│ ├── 03_feature_engineering.ipynb # Feature creation
-│ ├── 04_model_training_p1.ipynb # Ground detection models
-│ ├── 05_model_training_p2.ipynb # Vertical rate models
-│ └── 06_tableau_export.ipynb # Dashboard data export
+├── 📜 CW_ML_v2.ipynb                    # Complete PySpark pipeline (all steps combined)
 │
-├── scripts/
-│ └── CW_ML_v2.ipynb # Complete pipeline script
+├── 📊 dashboard.twbx                     # Single Tableau workbook with 4 dashboards
 │
-├── tableau/
-│ ├── CW_ML_v1.twbx 
+├── 📄 report.pdf                          # Final coursework submission
 │
-│
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies
+├── 📄 README.md                            # Project documentation
+├── 📄 requirements.txt                      
+└── 📄 .gitignore 
+
 ##  Key Results
 
 ### Problem 1: Ground Detection
