@@ -100,7 +100,6 @@ The project includes four interactive Tableau dashboards:
 - **Python 3.9**: Core programming language
 - **Tableau Public**: Interactive visualizations
 - **Pandas/NumPy**: Supplementary data processing
-- **Matplotlib**: Additional visualizations
 - **Git/GitHub**: Version control
 
 ##  Installation & Setup
